@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "Roman"
+    ],
+    "environment": "*",
+    "id": "hero",
+    "version": "1.0.0",
+    "name": "heroes for me",
+    "description": "my first addon",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}
