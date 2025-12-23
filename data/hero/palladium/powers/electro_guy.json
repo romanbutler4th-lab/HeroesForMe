@@ -25,9 +25,18 @@
                                             "allow_scrolling_when_crouching": true
                                         }
                 ],
-                "unlocking": []
-            }
+                "conditions": {
+                    "enabling": [ {
+                        "type": "palladium:action",
+                        "cooldown": 0,
+                        "key_type": "key_bind",
+                        "needs_empty_hand": false,
+                        "allow_scrolling_when_crouching": true
+                    }],
+                    "unlocking": []
+                }
+            }],
+            "unlocking": []
         }
-    
     }
 }
