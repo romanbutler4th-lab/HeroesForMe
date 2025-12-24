@@ -4,10 +4,5 @@
         "pack_format": 15,
         "description": "my first addon",
         "version": "1.0.0"
-    },
-    "dependencies": {
-        "common": {},
-        "fabric": {},
-        "forge": {}
     }
 }
